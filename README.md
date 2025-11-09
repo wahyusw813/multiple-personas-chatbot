@@ -6,7 +6,6 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
 
 **Chatbot AI yang powerful dengan berbagai persona, ditenagai oleh Google Gemini 2.0 Flash**
 
