@@ -178,16 +178,14 @@ Aplikasi akan terbuka otomatis di `http://localhost:8501`
 ## 📁 Struktur Project
 
 ```
-gemini-ai-chatbot/
+multiple-personas-chatbot/
 │
-├── app.py                    # Main application file
+├── multiplepersonas_app.py                    # Main application file
 ├── requirements.txt          # Python dependencies
 ├── README.md                 # Project documentation
 │
 ├── .streamlit/               # Streamlit configuration (optional)
-│   └── config.toml          # App theme & settings
-│
-└── .gitignore               # Git ignore file
+    └── config.toml          # App theme & settings
 ```
 
 ---
