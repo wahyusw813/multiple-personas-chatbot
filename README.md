@@ -180,31 +180,26 @@ Aplikasi akan terbuka otomatis di `http://localhost:8501`
 ```
 multiple-personas-chatbot/
 │
-├── multiplepersonas_app.py                    # Main application file
+├── multiplepersonas_app.py   # Main application file
 ├── requirements.txt          # Python dependencies
-├── README.md                 # Project documentation
-│
-├── .streamlit/               # Streamlit configuration (optional)
-    └── config.toml          # App theme & settings
-```
-
+└── README.md                 # Project documentation
 ---
 
 ## 🎨 Screenshots
 
 ### Main Chat Interface
 ```
-┌─────────────────────────────────────────────────┐
-│  Multiple Personas Chatbot                      │
-│  Mode: Asisten Ramah | Model: gemini-2.0-flash  │
-├─────────────────────────────────────────────────┤
-│                                                 │
-│   User: Halo, apa kabar?                        │
-│                                                 │
-│   AI: Halo! Kabar saya baik, terima kasih...    │
-│                                                 │
-│  [Ketik pesan Anda di sini...]                  │
-└─────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────┐
+│  Multiple Personas Chatbot                          │
+│  Mode: Asisten Ramah | Model: gemini-2.0-flash-exp  │
+├─────────────────────────────────────────────────────┤
+│                                                     │
+│   User: Halo, apa kabar?                            │
+│                                                     │
+│   AI: Halo! Kabar saya baik, terima kasih...        │
+│                                                     │
+│  [Ketik pesan Anda di sini...]                      │
+└─────────────────────────────────────────────────────┘
 ```
 
 ### Sidebar Settings
