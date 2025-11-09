@@ -108,7 +108,7 @@ if "api_key" not in st.session_state:
 
 4. **Jalankan aplikasi**
 ```bash
-streamlit run app.py
+streamlit run multiplepersonas_app.py
 ```
 
 5. **Buka browser**
